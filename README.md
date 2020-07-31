@@ -7,4 +7,4 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Reinforcement Learning:
 
-1. [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_thoughts.pdf), from ICLR 2020
+1. ICLR 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_thoughts.pdf)
