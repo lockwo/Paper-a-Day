@@ -7,4 +7,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Reinforcement Learning:
 
-1. ICLR 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_thoughts.pdf)
+1. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_thoughts.pdf)
+
+
+# Biology
+
+## Medical Sciences:
+
+1. Epidemiology and Infection 2007: [The Lyme vaccine: a cautionary tale](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_lyme_vaccine.pdf), [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_thoughts.pdf)
