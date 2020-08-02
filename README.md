@@ -15,3 +15,10 @@ In order to increase my knowledge of different fields and my abilities to read a
 ## Medical Sciences:
 
 1. Epidemiology and Infection 2007: [The Lyme vaccine: a cautionary tale](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_lyme_vaccine.pdf), [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_thoughts.pdf)
+
+
+# Philosophy
+
+## Metaphysics and Philosophy of Mind:
+
+1. The Philosophical Review 1974: [What Is It Like To Be A Bat?](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_bat.pdf), [JSTOR](https://www.jstor.org/stable/2183914?seq=1#metadata_info_tab_contents), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_thoughts.pdf)
