@@ -9,6 +9,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_thoughts.pdf)
 
+# Philosophy
+
+## Metaphysics and Philosophy of Mind:
+
+1. The Philosophical Review 1974: [What Is It Like To Be A Bat?](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_bat.pdf), [JSTOR](https://www.jstor.org/stable/2183914?seq=1#metadata_info_tab_contents), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_thoughts.pdf)
 
 # Biology
 
@@ -16,9 +21,12 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. Epidemiology and Infection 2007: [The Lyme vaccine: a cautionary tale](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_lyme_vaccine.pdf), [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_thoughts.pdf)
 
+# Chemistry
 
-# Philosophy
+## Computational and Simulations:
 
-## Metaphysics and Philosophy of Mind:
+1. Physical Review Letters 1996: [Origin of entropy convergence in hydrophobic hydration and protein folding](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Computational/garde1996_hydration_entropy.pdf), [arXiv](https://arxiv.org/abs/physics/9611013), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Computational/garde1996_thoughts.pdf)
 
-1. The Philosophical Review 1974: [What Is It Like To Be A Bat?](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_bat.pdf), [JSTOR](https://www.jstor.org/stable/2183914?seq=1#metadata_info_tab_contents), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_thoughts.pdf)
+
+
+
