@@ -15,6 +15,13 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. The Philosophical Review 1974: [What Is It Like To Be A Bat?](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_bat.pdf), [JSTOR](https://www.jstor.org/stable/2183914?seq=1#metadata_info_tab_contents), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_thoughts.pdf)
 
+
+# Physics
+
+## Quantum Mechanics:
+
+1. Scientific Reports 2019: [How Quantum Mechanics can consistently describe the use of itself](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Mechanics/Lazarovici2019_quantum_consistant.pdf), [arXiv](https://arxiv.org/abs/1809.08070), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Mechanics/Lazarovici2019_thoughts.pdf)
+
 # Biology
 
 ## Medical Sciences:
