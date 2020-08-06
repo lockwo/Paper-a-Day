@@ -9,6 +9,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_thoughts.pdf)
 
+## Theory and Design of Machine Learning Algorithms:
+
+1. Conference on Neural Information Processing Systems 2017: [Attention Is All You Need](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/vaswani2017_attention.pdf), [arXiv](https://arxiv.org/abs/1706.03762), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/vaswani2017_thoughts.pdf)
+
+
 # Philosophy
 
 ## Metaphysics and Philosophy of Mind:
