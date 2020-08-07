@@ -21,7 +21,7 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Cultural and Critical Theory:
 
-1. October (yes that the name of the journal) 1992: [Postscript on the Societies of Control](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Cultural%20Theory/deleuze1992_control.pdf), [JSTOR](https://www.jstor.org/stable/778828?seq=1#metadata_info_tab_contents), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Cultural%20Theory/deleuze1992_thoughts.pdf)
+1. October (yes, that is the journal name) 1992: [Postscript on the Societies of Control](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Cultural%20Theory/deleuze1992_control.pdf), [JSTOR](https://www.jstor.org/stable/778828?seq=1#metadata_info_tab_contents), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Cultural%20Theory/deleuze1992_thoughts.pdf)
 
 
 # Physics
