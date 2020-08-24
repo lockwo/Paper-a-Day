@@ -40,6 +40,10 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. Epidemiology and Infection 2007: [The Lyme vaccine: a cautionary tale](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_lyme_vaccine.pdf), [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Medicine/nigrovic2007_thoughts.pdf)
 
+## Neuroscience:
+
+1. Nature Communications 2020: [Elevated rates of autism, other neurodevelopmental and psychiatric diagnoses, and autistic traits in transgender and gender-diverse individuals](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/neuroscience/warrier2020_autism.pdf), [Nature](https://www.nature.com/articles/s41467-020-17794-1), [My Thoughts](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/neuroscience/warrier2020_thoughts.pdf)
+
 # Chemistry
 
 ## Computational and Simulations:
