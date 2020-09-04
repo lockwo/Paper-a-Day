@@ -32,6 +32,10 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 # Physics
 
+## Quantum Computing:
+
+1. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
+
 ## Quantum Mechanics:
 
 1. Scientific Reports 2019: [How Quantum Mechanics can consistently describe the use of itself](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Mechanics/Lazarovici2019_quantum_consistant.pdf), [arXiv](https://arxiv.org/abs/1809.08070)
@@ -39,6 +43,7 @@ In order to increase my knowledge of different fields and my abilities to read a
 ## Particle Physics:
 
 1. Physical Review Letters 1967: [A Model Of Leptons](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Particle_Physics/weinberg1967_leptons.pdf), [APS](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.19.1264)
+
 # Biology
 
 ## Medical Sciences:
