@@ -54,6 +54,10 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. Nature Communications 2020: [Elevated rates of autism, other neurodevelopmental and psychiatric diagnoses, and autistic traits in transgender and gender-diverse individuals](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/neuroscience/warrier2020_autism.pdf), [Nature](https://www.nature.com/articles/s41467-020-17794-1)
 
+## Anthropology:
+
+1. Nature Communications 2019: [A 5700 year-old human genome and oral microbiome from chewed birch pitch](https://github.com/lockwo/Paper-a-Day/blob/master/Biology/Anthropology/jensen2019_birch.pdf), [Nature](https://www.nature.com/articles/s41467-019-13549-9)
+
 # Chemistry
 
 ## Computational and Simulations:
