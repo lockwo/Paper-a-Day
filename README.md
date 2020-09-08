@@ -68,6 +68,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. Nature 2020: [A photochemical dehydrogenative strategy for aniline synthesis](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Synthesis/dighe2020_synthesis.pdf), [Nature](https://www.nature.com/articles/s41586-020-2539-7)
 
+## Protein Chemistry:
 
+1. Nature Communications 2019: [N+-C-H···O Hydrogen bonds in protein-ligand complexes](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Protein/itoh2019_bonds.pdf), [Nature](https://www.nature.com/articles/s41598-018-36987-9)
 
 
