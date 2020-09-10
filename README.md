@@ -6,7 +6,9 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Reinforcement Learning:
 
-1. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729)
+1. NeurIPS 2019: [Better Exploration with Optimistic Actor-Critic](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/ciosek2019_OAC.pdf), [arXiv](https://arxiv.org/abs/1910.12807)
+
+2. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729)
 
 ## Theory and Design of Machine Learning Algorithms:
 
