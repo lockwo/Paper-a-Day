@@ -66,7 +66,9 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Computational and Simulations:
 
-1. Physical Review Letters 1996: [Origin of entropy convergence in hydrophobic hydration and protein folding](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Computational/garde1996_hydration_entropy.pdf), [arXiv](https://arxiv.org/abs/physics/9611013)
+1. Proceedings of the National Academy of Sciences 1996: [An information theory model of hydrophobic interactions](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Computational/hummer1996_hydrophobic.pdf), [PNAS](https://www.pnas.org/content/93/17/8951.short)
+
+2. Physical Review Letters 1996: [Origin of entropy convergence in hydrophobic hydration and protein folding](https://github.com/lockwo/Paper-a-Day/blob/master/Chemistry/Computational/garde1996_hydration_entropy.pdf), [arXiv](https://arxiv.org/abs/physics/9611013)
 
 ## Synthetic Methods:
 
