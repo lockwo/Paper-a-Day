@@ -1,4 +1,4 @@
-# Paper-a-Day
+# Paper-a-Day 
 
 In order to increase my knowledge of different fields and my abilities to read and synthesize papers, I have created this repository. Everyday I will upload 1 paper (from any number of fields) and a short write up on it, containing whatever thoughts on it I might have. Each of the folders in this repo will be one major field (e.g. Machine Learning) which may have subfields (e.g. Computer Vision). Below is the fields/subfields and the associated papers and thoughts. Note that although there may be famous papers in here, my goal is not just to read the famous papers from a field. Also I will only read peer-reviewed papers, as the reliance on unpublished Arxiv papers is something I see as a severe problem. Each subfield's set of papers is ranked (entirely subjectively) in the order that I most recommend people read. 
 
