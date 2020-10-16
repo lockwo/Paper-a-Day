@@ -6,7 +6,9 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Quantum Machine Learning:
 
-1. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
+1. AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment 2020: [Reinforcement Learning with Quantum Variational Circuits](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/lockwood2020_rlqvc.pdf), [arXiv](https://arxiv.org/abs/2008.07524)
+
+2. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
 
 ## Reinforcement Learning:
 
