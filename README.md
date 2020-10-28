@@ -28,9 +28,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. Conference on Neural Information Processing Systems 2017: [Attention Is All You Need](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/vaswani2017_attention.pdf), [arXiv](https://arxiv.org/abs/1706.03762)
 
-## Graphics:
+## Computer Graphics and Game AI:
 
-1. ACM Transactions on Graphics 2020: [Local Motion Phases for Learning Multi-Contact Character Movements](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Graphics/starke2020_basketball.pdf), [ACM](https://dl.acm.org/doi/abs/10.1145/3386569.3392450)
+1. AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment 2020: [TOAD-GAN: Coherent Style Level Generation from a Single Example](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Graphics/awiszus2020_toad.pdf), [arXiv](https://arxiv.org/abs/2008.01531)
+
+2. ACM Transactions on Graphics 2020: [Local Motion Phases for Learning Multi-Contact Character Movements](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Graphics/starke2020_basketball.pdf), [ACM](https://dl.acm.org/doi/abs/10.1145/3386569.3392450)
 
 # Philosophy
 
