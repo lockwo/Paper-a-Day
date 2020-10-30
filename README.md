@@ -12,6 +12,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 3. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
 
+4. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
+
 ## Reinforcement Learning:
 
 1. NeurIPS 2019: [Better Exploration with Optimistic Actor-Critic](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/ciosek2019_OAC.pdf), [arXiv](https://arxiv.org/abs/1910.12807)
