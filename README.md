@@ -58,7 +58,9 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Quantum Mechanics:
 
-1. Scientific Reports 2019: [How Quantum Mechanics can consistently describe the use of itself](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Mechanics/Lazarovici2019_quantum_consistant.pdf), [arXiv](https://arxiv.org/abs/1809.08070)
+1. Physical Review 1935: [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Mechanics/einstein1935_epr.pdf), [APS](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
+
+2. Scientific Reports 2019: [How Quantum Mechanics can consistently describe the use of itself](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Mechanics/Lazarovici2019_quantum_consistant.pdf), [arXiv](https://arxiv.org/abs/1809.08070)
 
 ## Particle Physics:
 
