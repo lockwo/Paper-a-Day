@@ -54,7 +54,9 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Quantum Computing:
 
-1. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
+1. npj Quantum Information 2019: [Quantum Generative Adversarial Networks for learning and loading random distributions](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/zoufaul2019_qgan.pdf), [Nature](https://www.nature.com/articles/s41534-019-0223-2)
+
+2. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
 
 ## Quantum Mechanics:
 
