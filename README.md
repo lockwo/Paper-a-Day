@@ -1,6 +1,6 @@
 # Paper-a-Day 
 
-In order to increase my knowledge of different fields and my abilities to read and synthesize papers, I have created this repository. Everyday I will upload 1 paper (from any number of fields) and a short write up on it, containing whatever thoughts on it I might have. Each of the folders in this repo will be one major field (e.g. Machine Learning) which may have subfields (e.g. Computer Vision). Below is the fields/subfields and the associated papers and thoughts. Note that although there may be famous papers in here, my goal is not just to read the famous papers from a field. Also I will only read peer-reviewed papers, as the reliance on unpublished Arxiv papers is something I see as a severe problem. Each subfield's set of papers is ranked (entirely subjectively) in the order that I most recommend people read. 
+In order to increase my knowledge of different fields and my abilities to read and synthesize papers, I have created this repository. Everyday I will upload 1 paper (from any number of fields) and a short write up on it, containing whatever thoughts on it I might have. Each of the folders in this repo will be one major field (e.g. Machine Learning) which may have subfields (e.g. Computer Vision). Below is the fields/subfields and the associated papers and thoughts. Note that although there may be famous papers in here, my goal is not just to read the famous papers from a field. Previously I would only read peer reviewed work, and while I still stand by those principles, I have been worn down by the necessity of reading preprints in order to stay current in the rapidly moving fields. 
 
 # Machine Learning:
 
@@ -54,9 +54,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Quantum Computing:
 
-1. npj Quantum Information 2019: [Quantum Generative Adversarial Networks for learning and loading random distributions](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/zoufaul2019_qgan.pdf), [Nature](https://www.nature.com/articles/s41534-019-0223-2)
+1. arXiv 2020: [Focus beyond quadratic speedups for error-corrected quantum advantage](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/babbush2020_speedups.pdf)
 
-2. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
+2. npj Quantum Information 2019: [Quantum Generative Adversarial Networks for learning and loading random distributions](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/zoufaul2019_qgan.pdf), [Nature](https://www.nature.com/articles/s41534-019-0223-2)
+
+3. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
 
 ## Quantum Mechanics:
 
