@@ -10,9 +10,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 2. Unpublished (I generally avoid non peer reviewed/unpublished work, but I think this is very well written and has lots of useful information for beginner and expert alike) 2020: [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/broughton2020_tfq.pdf), [arXiv](https://arxiv.org/abs/2003.02989)
 
-3. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
+3. arXiv 2020: [Power of Data in Quantum Machine Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/huang2020_pod.pdf), [arXiv](https://arxiv.org/pdf/2011.01938.pdf)
 
-4. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
+4. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
+
+5. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
 
 ## Reinforcement Learning:
 
