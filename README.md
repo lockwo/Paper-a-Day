@@ -54,7 +54,7 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 ## Quantum Computing:
 
-1. arXiv 2020: [Focus beyond quadratic speedups for error-corrected quantum advantage](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/babbush2020_speedups.pdf)
+1. arXiv 2020: [Focus beyond quadratic speedups for error-corrected quantum advantage](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/babbush2020_speedups.pdf), [arXiv](https://arxiv.org/pdf/2011.04149.pdf)
 
 2. npj Quantum Information 2019: [Quantum Generative Adversarial Networks for learning and loading random distributions](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/zoufaul2019_qgan.pdf), [Nature](https://www.nature.com/articles/s41534-019-0223-2)
 
