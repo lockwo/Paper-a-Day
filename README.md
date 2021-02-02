@@ -42,7 +42,7 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 # Philosophy
 
-## Metaphysics and Philosophy of Mind:
+## Metaphysics/Ontology and Philosophy of Mind:
 
 1. The Philosophical Review 1974: [What Is It Like To Be A Bat?](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Metaphysics/nagel1974_bat.pdf), [JSTOR](https://www.jstor.org/stable/2183914?seq=1#metadata_info_tab_contents)
 
@@ -53,6 +53,10 @@ In order to increase my knowledge of different fields and my abilities to read a
 ## Literature:
 
 1. Image-Music-Text 1977: [The death of the author](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Literature/Barthes1977_author.pdf), [Tufts](https://sites.tufts.edu/english292b/files/2012/01/Barthes-The-Death-of-the-Author.pdf)
+
+## Philosophy of Science:
+
+1. Science 1972: [More is Different](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Science/anderson1972_more.pdf), [Science](https://science.sciencemag.org/content/177/4047/393)
 
 # Physics
 
