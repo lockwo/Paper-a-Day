@@ -58,6 +58,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. Science 1972: [More is Different](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Science/anderson1972_more.pdf), [Science](https://science.sciencemag.org/content/177/4047/393)
 
+2. Arxiv 2021: [Disembodied Machine Learning: On the Illusion of Objectivity in NLP](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Science/waseem2021_nlp_bodies.pdf), [arXiv](https://arxiv.org/abs/2101.11974)
+
 # Physics
 
 ## Quantum Computing:
