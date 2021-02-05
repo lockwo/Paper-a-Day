@@ -12,11 +12,13 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 3. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
 
-4. arXiv 2020: [Power of Data in Quantum Machine Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/huang2020_pod.pdf), [arXiv](https://arxiv.org/pdf/2011.01938.pdf)
+4. Quantum 2021: [Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/banchi2021_sps.pdf), [arXiv](https://arxiv.org/abs/2005.10299)
 
-5. Quantum 2021: [Structure optimization for parameterized quantum circuits](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/ostaszewski2019_roto.pdf), [Quantum](https://quantum-journal.org/papers/q-2021-01-28-391/)
+5. arXiv 2020: [Power of Data in Quantum Machine Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/huang2020_pod.pdf), [arXiv](https://arxiv.org/pdf/2011.01938.pdf)
 
-6. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
+6. Quantum 2021: [Structure optimization for parameterized quantum circuits](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/ostaszewski2019_roto.pdf), [Quantum](https://quantum-journal.org/papers/q-2021-01-28-391/)
+
+7. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
 
 ## Reinforcement Learning:
 
