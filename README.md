@@ -16,9 +16,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 5. arXiv 2020: [Power of Data in Quantum Machine Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/huang2020_pod.pdf), [arXiv](https://arxiv.org/pdf/2011.01938.pdf)
 
-6. Quantum 2021: [Structure optimization for parameterized quantum circuits](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/ostaszewski2019_roto.pdf), [Quantum](https://quantum-journal.org/papers/q-2021-01-28-391/)
+6. arXiv 2020: [Using models to improve optimizers for variational quantum algorithms](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/sung2020_model_opt.pdf), [arXiv](https://arxiv.org/abs/2005.11011)
 
-7. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
+7. Quantum 2021: [Structure optimization for parameterized quantum circuits](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/ostaszewski2019_roto.pdf), [Quantum](https://quantum-journal.org/papers/q-2021-01-28-391/)
+
+8. Nature Communications 2020: [Training deep quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/beer2020_qnn.pdf), [Nature](https://www.nature.com/articles/s41467-020-14454-2)
 
 ## Reinforcement Learning:
 
