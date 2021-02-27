@@ -36,9 +36,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 6. International Conference on Learning Representations 2020: [Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/lan2020_maxmin.pdf), [arXiv](https://arxiv.org/abs/2002.06487)
 
-## Theory and Design of Machine Learning Algorithms:
+## Theory and Design of Classical and Quantum Machine Learning Algorithms:
 
-1. Conference on Neural Information Processing Systems 2017: [Attention Is All You Need](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/vaswani2017_attention.pdf), [arXiv](https://arxiv.org/abs/1706.03762)
+1. arXiv 2020: [Estimating the gradient and higher-order derivatives on quantum hardware](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/mari2020_gradient.pdf), [arXiv](https://arxiv.org/pdf/2008.06517.pdf)
+
+2. Conference on Neural Information Processing Systems 2017: [Attention Is All You Need](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/vaswani2017_attention.pdf), [arXiv](https://arxiv.org/abs/1706.03762)
 
 ## Computer Graphics and Game AI:
 
