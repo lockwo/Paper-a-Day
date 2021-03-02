@@ -58,9 +58,11 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. October 1992: [Postscript on the Societies of Control](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Cultural%20Theory/deleuze1992_control.pdf), [JSTOR](https://www.jstor.org/stable/778828?seq=1#metadata_info_tab_contents)
 
-## Literature:
+## Literature and Film Studies:
 
 1. Image-Music-Text 1977: [The death of the author](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Literature/Barthes1977_author.pdf), [Tufts](https://sites.tufts.edu/english292b/files/2012/01/Barthes-The-Death-of-the-Author.pdf)
+
+2. Film Quarterly 2012: [What Is Hauntology?](https://github.com/lockwo/Paper-a-Day/blob/master/Philosophy/Literature/fisher2012_haunt.pdf), [JSTOR](https://www.jstor.org/stable/10.1525/fq.2012.66.1.16?seq=1#metadata_info_tab_contents)
 
 ## Philosophy of Science:
 
