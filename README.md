@@ -76,7 +76,9 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 2. npj Quantum Information 2019: [Quantum Generative Adversarial Networks for learning and loading random distributions](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/zoufaul2019_qgan.pdf), [Nature](https://www.nature.com/articles/s41534-019-0223-2)
 
-3. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
+3. Physical Review Research 2019: [Subspace-search variational quantum eigensolver for excited states](https://github.com/lockwo/Paper-a-Day/blob/master/Physics/Quantum%20Computing/nakanishi2019_ssvqe.pdf), [arXiv](https://arxiv.org/abs/1810.09434)
+
+4. Quantum 2020: [Option Pricing using Quantum Computers](https://github.com/lockwo/Paper-a-Day/tree/master/Physics/Quantum%20Computing), [Quantum](https://quantum-journal.org/papers/q-2020-07-06-291/)
 
 ## Quantum Mechanics:
 
