@@ -26,17 +26,19 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 1. NeurIPS 2019: [Better Exploration with Optimistic Actor-Critic](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/ciosek2019_OAC.pdf), [arXiv](https://arxiv.org/abs/1910.12807)
 
-2. NeurIPS 2016: [Deep Exploration via Bootstrapped DQN](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/osband2016_boot.pdf), [arXiv](https://arxiv.org/abs/1602.04621)
+2. arXiv 2019: [Soft Actor-Critic Algorithms and Applications](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/haarnoja2019_sac.pdf), [arXiv](https://arxiv.org/abs/1812.05905)
 
-3. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729)
+3. NeurIPS 2016: [Deep Exploration via Bootstrapped DQN](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/osband2016_boot.pdf), [arXiv](https://arxiv.org/abs/1602.04621)
 
-4. International Conference on Learning Representations 2021: [Mastering Atari with Discrete World Models](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/hafner2020_dreamerv2.pdf), [arXiv](https://arxiv.org/abs/2010.02193)
+4. International Conference on Learning Representations 2020: [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/engstrom2020_case_study_trpo_ppo.pdf), [arXiv](https://arxiv.org/abs/2005.12729)
 
-4. Connectionist Models Summer School 1993: [Issues in Using Function Approximation for Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/thrun1993_overestimation.pdf), [CMU](https://www.ri.cmu.edu/publications/issues-in-using-function-approximation-for-reinforcement-learning/)
+5. International Conference on Learning Representations 2021: [Mastering Atari with Discrete World Models](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/hafner2020_dreamerv2.pdf), [arXiv](https://arxiv.org/abs/2010.02193)
 
-5. NeurIPS 2020: [Softmax Deep Double Deterministic Policy Gradients](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/pan2020_sd3.pdf), [arXiv](https://arxiv.org/abs/2010.09177)
+6. Connectionist Models Summer School 1993: [Issues in Using Function Approximation for Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/thrun1993_overestimation.pdf), [CMU](https://www.ri.cmu.edu/publications/issues-in-using-function-approximation-for-reinforcement-learning/)
 
-6. International Conference on Learning Representations 2020: [Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/lan2020_maxmin.pdf), [arXiv](https://arxiv.org/abs/2002.06487)
+7. NeurIPS 2020: [Softmax Deep Double Deterministic Policy Gradients](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/pan2020_sd3.pdf), [arXiv](https://arxiv.org/abs/2010.09177)
+
+8. International Conference on Learning Representations 2020: [Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Reinforcement_Learning/lan2020_maxmin.pdf), [arXiv](https://arxiv.org/abs/2002.06487)
 
 ## Theory and Design of Classical and Quantum Machine Learning Algorithms:
 
