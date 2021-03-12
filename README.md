@@ -46,6 +46,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 2. Conference on Neural Information Processing Systems 2017: [Attention Is All You Need](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/vaswani2017_attention.pdf), [arXiv](https://arxiv.org/abs/1706.03762)
 
+3. Physical Review Letter 2021: [Enforcing Analytic Constraints in Neural Networks Emulating Physical Systems](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/theory_design/beucler2021_physical_nn.pdf), [arXiv](https://arxiv.org/abs/1909.00912)
+
 ## Computer Graphics and Game AI:
 
 1. AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment 2020: [TOAD-GAN: Coherent Style Level Generation from a Single Example](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/Graphics/awiszus2020_toad.pdf), [arXiv](https://arxiv.org/abs/2008.01531)
