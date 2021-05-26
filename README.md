@@ -16,6 +16,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 4. Quantum 2021: [Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/banchi2021_sps.pdf), [arXiv](https://arxiv.org/abs/2005.10299)
 
+5. Quantum Machine Intelligence 2021: [Layerwise learning for quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/skolik2020_ll.pdf), [arXiv](https://arxiv.org/abs/2006.14904)
+
 5. arXiv 2020: [Power of Data in Quantum Machine Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/huang2020_pod.pdf), [arXiv](https://arxiv.org/pdf/2011.01938.pdf)
 
 6. arXiv 2020: [Using models to improve optimizers for variational quantum algorithms](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/sung2020_model_opt.pdf), [arXiv](https://arxiv.org/abs/2005.11011)
