@@ -14,6 +14,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 3. IEEE Access 2020: [Variational Quantum Circuits for Deep Reinforcement Learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/chen2020_qvcrl.pdf), [arXiv](https://arxiv.org/abs/1907.00397)
 
+3. arXiv 2021: [Variational quantum policies for reinforcement learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/jerbi2021_reinforcevqc.pdf), [arXiv](https://arxiv.org/abs/2103.05577)
+
 4. Quantum 2021: [Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/banchi2021_sps.pdf), [arXiv](https://arxiv.org/abs/2005.10299)
 
 5. Quantum Machine Intelligence 2021: [Layerwise learning for quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/skolik2020_ll.pdf), [arXiv](https://arxiv.org/abs/2006.14904)
