@@ -16,6 +16,8 @@ In order to increase my knowledge of different fields and my abilities to read a
 
 3. arXiv 2021: [Variational quantum policies for reinforcement learning](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/jerbi2021_reinforcevqc.pdf), [arXiv](https://arxiv.org/abs/2103.05577)
 
+4. Quantum 2019: [Quantum-assisted quantum compiling](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/khatri2019_qaqc.pdf), [Quantum](https://quantum-journal.org/papers/q-2019-05-13-140/pdf/)
+
 4. Quantum 2021: [Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/banchi2021_sps.pdf), [arXiv](https://arxiv.org/abs/2005.10299)
 
 5. Quantum Machine Intelligence 2021: [Layerwise learning for quantum neural networks](https://github.com/lockwo/Paper-a-Day/blob/master/Machine_Learning/QML/skolik2020_ll.pdf), [arXiv](https://arxiv.org/abs/2006.14904)
